@@ -1,0 +1,40 @@
+html {
+    height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    margin: o;
+}
+
+.color {
+    background-color: rgb(223, 19, 223);
+}
+
+.pic { 
+    background-image:url("https://avatars.mds.yandex.net/i?id=4bcf2c20020e40da18ac55db591fb05f_l-5235050-images-thumbs&n=13");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+
+.title {
+    color: rgb(11, 240, 213);
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    margin-top: 50px;
+}
