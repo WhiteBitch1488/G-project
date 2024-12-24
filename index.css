@@ -1,42 +1,42 @@
 html {
-    height: 100vh;
-    overflow: hidden;
+  height: 100vh;
+  overflow: hidden;
 }
 
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    height: 100%;
-    margin: o;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  margin: o;
 }
 
 .color {
-    background-color: rgb(253, 253, 253);
+  background-color: rgb(253, 253, 253);
 }
 
-.pic { 
-    background-image:url("https://avatars.mds.yandex.net/i?id=4bcf2c20020e40da18ac55db591fb05f_l-5235050-images-thumbs&n=13");
-    background-repeat: no-repeat;
-    background-position: 0 0;
-    background-size: cover;
+.pic {
+  background-image: url("https://avatars.mds.yandex.net/i?id=4bcf2c20020e40da18ac55db591fb05f_l-5235050-images-thumbs&n=13");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
 }
 
 .title {
-    color: rgb(0, 6, 5);
+  color: rgb(0, 6, 5);
 }
 
 .show {
-    display: block;
+  display: block;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
 
 button {
-    margin-top: 50px;
-    background-color: rgb(245, 248, 245);
-    color: rgb(8, 8, 8);
+  margin-top: 50px;
+  background-color: rgb(245, 248, 245);
+  color: rgb(8, 8, 8);
 }
