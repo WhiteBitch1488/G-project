@@ -17,7 +17,6 @@ body.classList.add("pic");
    btn2.classList.add("show");
 
    str2.querySelector('span').innerText = name;
-
 })
 
 btn2.addEventListener('click', () => {
